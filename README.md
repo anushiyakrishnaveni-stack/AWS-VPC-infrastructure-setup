@@ -48,7 +48,7 @@ The primary goal of this project was to establish a secure, isolated network env
 
 ## 📸 Screenshots
 *(Tip: Upload your images to a 'screenshots' folder in your repo and link them here)*
-![VPC Creation Success](./screenshots/VPC_Created.png)
+VPC Created.png
 ![VPC Resource Map](./screenshots/VPC_details.png)
 
 ## 🧠 Lessons Learned
